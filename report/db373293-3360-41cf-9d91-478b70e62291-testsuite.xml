@@ -1,0 +1,99 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1583846894290" stop="1583846896476">
+  <name>script</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1583846894290" status="passed" stop="1583846894436">
+      <name>test_wenzfabu_shenhe.TestWenLogin.test_login_mp</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20016-MainThread"/>
+        <label name="host" value="DESKTOP-L8DHSVD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583846894623" status="passed" stop="1583846894748">
+      <description>
+        ar_title=文章标题
+        ar_content=文章内容
+        ch_id=频道id
+        status_code=期望返回状态码
+        msg=期望返回msg
+        </description>
+      <name>test_wenzfabu_shenhe.TestWenLogin.test_fb_article[\u5c0f\u5947\u840c\u840c\u54d2{}-\u72d0\u72f8\u72d0\u72f8{}-1-201-OK]</name>
+      <attachments>
+        <attachment source="8d59cab8-a4e5-4e9a-930e-5f24f200392a-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20016-MainThread"/>
+        <label name="host" value="DESKTOP-L8DHSVD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583846894769" status="passed" stop="1583846894996">
+      <name>test_wenzfabu_shenhe.TestWenLogin.test_mis_login</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20016-MainThread"/>
+        <label name="host" value="DESKTOP-L8DHSVD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583846895015" status="passed" stop="1583846895591">
+      <name>test_wenzfabu_shenhe.TestWenLogin.test_wz_article</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20016-MainThread"/>
+        <label name="host" value="DESKTOP-L8DHSVD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583846895610" status="passed" stop="1583846895705">
+      <name>test_wenzfabu_shenhe.TestWenLogin.test_sh_article</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20016-MainThread"/>
+        <label name="host" value="DESKTOP-L8DHSVD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583846895724" status="passed" stop="1583846896268">
+      <name>test_wenzfabu_shenhe.TestWenLogin.test_app_logints</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20016-MainThread"/>
+        <label name="host" value="DESKTOP-L8DHSVD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583846896288" status="passed" stop="1583846896476">
+      <name>test_wenzfabu_shenhe.TestWenLogin.test_app_article</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20016-MainThread"/>
+        <label name="host" value="DESKTOP-L8DHSVD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

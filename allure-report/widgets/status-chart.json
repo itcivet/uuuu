@@ -1,0 +1,71 @@
+[ {
+  "uid" : "6a08ce188ecbd128",
+  "name" : "test_wenzfabu_shenhe.TestWenLogin.test_mis_login",
+  "time" : {
+    "start" : 1583846894769,
+    "stop" : 1583846894996,
+    "duration" : 227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8bd5f7addc87036e",
+  "name" : "test_wenzfabu_shenhe.TestWenLogin.test_app_logints",
+  "time" : {
+    "start" : 1583846895724,
+    "stop" : 1583846896268,
+    "duration" : 544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebeb1894da44c2a5",
+  "name" : "test_wenzfabu_shenhe.TestWenLogin.test_sh_article",
+  "time" : {
+    "start" : 1583846895610,
+    "stop" : 1583846895705,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d22c9e6e95e996ca",
+  "name" : "test_wenzfabu_shenhe.TestWenLogin.test_app_article",
+  "time" : {
+    "start" : 1583846896288,
+    "stop" : 1583846896476,
+    "duration" : 188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d632e3033daea3f",
+  "name" : "test_wenzfabu_shenhe.TestWenLogin.test_login_mp",
+  "time" : {
+    "start" : 1583846894290,
+    "stop" : 1583846894436,
+    "duration" : 146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f192865642a607cd",
+  "name" : "test_wenzfabu_shenhe.TestWenLogin.test_fb_article[\\u5c0f\\u5947\\u840c\\u840c\\u54d2{}-\\u72d0\\u72f8\\u72d0\\u72f8{}-1-201-OK]",
+  "time" : {
+    "start" : 1583846894623,
+    "stop" : 1583846894748,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a49372202b157e8",
+  "name" : "test_wenzfabu_shenhe.TestWenLogin.test_wz_article",
+  "time" : {
+    "start" : 1583846895015,
+    "stop" : 1583846895591,
+    "duration" : 576
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

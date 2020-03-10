@@ -1,0 +1,76 @@
+{
+  "uid" : "f192865642a607cd",
+  "name" : "test_wenzfabu_shenhe.TestWenLogin.test_fb_article[\\u5c0f\\u5947\\u840c\\u840c\\u54d2{}-\\u72d0\\u72f8\\u72d0\\u72f8{}-1-201-OK]",
+  "fullName" : "script.test_wenzfabu_shenhe.TestWenLogin.test_fb_article[\\u5c0f\\u5947\\u840c\\u840c\\u54d2{}-\\u72d0\\u72f8\\u72d0\\u72f8{}-1-201-OK]",
+  "historyId" : "537f0dfd0e48c0facd11e1d4107cc521",
+  "time" : {
+    "start" : 1583846894623,
+    "stop" : 1583846894748,
+    "duration" : 125
+  },
+  "description" : "\n        ar_title=文章标题\n        ar_content=文章内容\n        ch_id=频道id\n        status_code=期望返回状态码\n        msg=期望返回msg\n        ",
+  "descriptionHtml" : "<pre><code>    ar_title=文章标题\n    ar_content=文章内容\n    ch_id=频道id\n    status_code=期望返回状态码\n    msg=期望返回msg\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5762f789be7b8dca",
+      "name" : "Captured log call",
+      "source" : "5762f789be7b8dca.txt",
+      "type" : "text/plain",
+      "size" : 204
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-L8DHSVD"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "20016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "script"
+  }, {
+    "name" : "testClass",
+    "value" : "script"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_wenzfabu_shenhe.TestWenLogin.test_fb_article[\\u5c0f\\u5947\\u840c\\u840c\\u54d2{}-\\u72d0\\u72f8\\u72d0\\u72f8{}-1-201-OK]"
+  }, {
+    "name" : "package",
+    "value" : "script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f192865642a607cd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,93 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "script",
+    "children" : [ {
+      "name" : "test_wenzfabu_shenhe.TestWenLogin.test_login_mp",
+      "uid" : "2d632e3033daea3f",
+      "parentUid" : "753b61216abbfea068f4ca4e530487c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583846894290,
+        "stop" : 1583846894436,
+        "duration" : 146
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_wenzfabu_shenhe.TestWenLogin.test_fb_article[\\u5c0f\\u5947\\u840c\\u840c\\u54d2{}-\\u72d0\\u72f8\\u72d0\\u72f8{}-1-201-OK]",
+      "uid" : "f192865642a607cd",
+      "parentUid" : "753b61216abbfea068f4ca4e530487c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583846894623,
+        "stop" : 1583846894748,
+        "duration" : 125
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_wenzfabu_shenhe.TestWenLogin.test_mis_login",
+      "uid" : "6a08ce188ecbd128",
+      "parentUid" : "753b61216abbfea068f4ca4e530487c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583846894769,
+        "stop" : 1583846894996,
+        "duration" : 227
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_wenzfabu_shenhe.TestWenLogin.test_wz_article",
+      "uid" : "2a49372202b157e8",
+      "parentUid" : "753b61216abbfea068f4ca4e530487c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583846895015,
+        "stop" : 1583846895591,
+        "duration" : 576
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_wenzfabu_shenhe.TestWenLogin.test_sh_article",
+      "uid" : "ebeb1894da44c2a5",
+      "parentUid" : "753b61216abbfea068f4ca4e530487c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583846895610,
+        "stop" : 1583846895705,
+        "duration" : 95
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_wenzfabu_shenhe.TestWenLogin.test_app_logints",
+      "uid" : "8bd5f7addc87036e",
+      "parentUid" : "753b61216abbfea068f4ca4e530487c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583846895724,
+        "stop" : 1583846896268,
+        "duration" : 544
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_wenzfabu_shenhe.TestWenLogin.test_app_article",
+      "uid" : "d22c9e6e95e996ca",
+      "parentUid" : "753b61216abbfea068f4ca4e530487c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583846896288,
+        "stop" : 1583846896476,
+        "duration" : 188
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "753b61216abbfea068f4ca4e530487c6"
+  } ]
+}

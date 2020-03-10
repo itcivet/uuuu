@@ -1,0 +1,60 @@
+{
+  "uid" : "d22c9e6e95e996ca",
+  "name" : "test_wenzfabu_shenhe.TestWenLogin.test_app_article",
+  "fullName" : "script.test_wenzfabu_shenhe.TestWenLogin.test_app_article",
+  "historyId" : "7672d5e821bf484e496ea485ef5b0390",
+  "time" : {
+    "start" : 1583846896288,
+    "stop" : 1583846896476,
+    "duration" : 188
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-L8DHSVD"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "20016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "script"
+  }, {
+    "name" : "testClass",
+    "value" : "script"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_wenzfabu_shenhe.TestWenLogin.test_app_article"
+  }, {
+    "name" : "package",
+    "value" : "script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d22c9e6e95e996ca.json",
+  "parameterValues" : [ ]
+}

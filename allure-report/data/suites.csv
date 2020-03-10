@@ -1,0 +1,14 @@
+"Status","Name","Duration in ms","Description"
+"passed","script.test_wenzfabu_shenhe.TestWenLogin.test_mis_login","227",""
+"passed","script.test_wenzfabu_shenhe.TestWenLogin.test_app_logints","544",""
+"passed","script.test_wenzfabu_shenhe.TestWenLogin.test_sh_article","95",""
+"passed","script.test_wenzfabu_shenhe.TestWenLogin.test_app_article","188",""
+"passed","script.test_wenzfabu_shenhe.TestWenLogin.test_login_mp","146",""
+"passed","script.test_wenzfabu_shenhe.TestWenLogin.test_fb_article[\u5c0f\u5947\u840c\u840c\u54d2{}-\u72d0\u72f8\u72d0\u72f8{}-1-201-OK]","125","
+        ar_title=文章标题
+        ar_content=文章内容
+        ch_id=频道id
+        status_code=期望返回状态码
+        msg=期望返回msg
+        "
+"passed","script.test_wenzfabu_shenhe.TestWenLogin.test_wz_article","576",""

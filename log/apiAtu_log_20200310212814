@@ -1,0 +1,2 @@
+2020-03-10 21:28:14,738 INFO [test_wenzfabu_shenhe.py(test_fb_article:57)] - 发布文章的结果信息为:{'message': 'OK', 'data': {'id': 1237370433611759616}}
+2020-03-10 21:28:14,739 INFO [test_wenzfabu_shenhe.py(test_fb_article:71)] - 发布文章的id1237370433611759616

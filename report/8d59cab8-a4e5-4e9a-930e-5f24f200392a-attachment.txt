@@ -1,0 +1,2 @@
+INFO     root:test_wenzfabu_shenhe.py:57 发布文章的结果信息为:{'message': 'OK', 'data': {'id': 1237370433611759616}}
+INFO     root:test_wenzfabu_shenhe.py:71 发布文章的id1237370433611759616
